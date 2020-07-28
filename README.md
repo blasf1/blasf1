@@ -5,5 +5,5 @@
 I am a PhD student of Advanced Information Technologies with a general passion for Computer Science and Wireless Networks in particular. I work for the better use of resources in Wi-Fi networks. I strongly believe that, if properly used, communications are the engine of humanity's evolution. I want to be part of it by promoting technologies for its benefit. 
 
 - 🔭 I’m currently working on a better use of resources on IEEE 802.11 WLANs.
-- 🌱 I’m currently learning Machine Learning and Network Simulation.
+- 🌱 I’m currently learning machine learning and network simulation.
 - 📫 How to reach me: blas.gomez@uclm.es or Twitter: @blasf1
