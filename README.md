@@ -7,3 +7,7 @@ I am a PhD student in Advanced Computer Technologies with a general passion for 
 - 🔭 I’m currently working on a better use of resources on IEEE 802.11 WLANs.
 - 🌱 I’m currently learning machine learning and network simulation.
 - 📫 How to reach me: blas.gomez@uclm.es or Twitter: @blasf1
+
+<img height="20"src="https://simpleicons.org/icons/python.svg">
+<img height="20"src="https://simpleicons.org/icons/cplusplus.svg">
+<img height="20"src="https://simpleicons.org/icons/git.svg">
